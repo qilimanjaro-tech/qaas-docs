@@ -28,7 +28,7 @@ ensure_newline_before_comments = true
 [tool.commitizen]
 version = "0.0.0"
 version_files = [
-    "src/qgqs_docs/__init__.py",
+    "src/qaas_docs/__init__.py",
     "pyproject.toml:version"
 ]
 tag_format = "v$version"
