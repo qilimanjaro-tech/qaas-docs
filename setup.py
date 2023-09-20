@@ -6,7 +6,7 @@ from setuptools import find_packages, setup
 PACKAGE = "qaas_docs"
 
 
-with open("src/qililab/config/version.py") as f:
+with open("src/qaas_docs/config/version.py") as f:
     version = f.readlines()[-1].split()[-1].strip("\"'")
 
 

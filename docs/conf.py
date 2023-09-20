@@ -12,13 +12,13 @@ from sphinxawesome_theme.postprocess import Icons  # pylint: disable=import-erro
 
 sys.path.insert(0, os.path.abspath(".."))
 
-project = "QGQS Docs"
+project = "QaaS Docs"
 copyright = "2023, Qilimanjaro"
 author = "Qilimanjaro"
 
-import qgqs_docs  # pylint: disable=wrong-import-position  # noqa: E402
+import qaas_docs  # pylint: disable=wrong-import-position  # noqa: E402
 
-release = qgqs_docs.__version__
+release = qaas_docs.__version__
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -63,7 +63,7 @@ html_theme_options = {
     "main_nav_links": {"Docs": "index", "Changelog": "changelog"},
     "extra_header_link_icons": {
         "repository on GitHub": {
-            "link": "https://github.com/qilimanjaro-tech/qgqs-docs",
+            "link": "https://github.com/qilimanjaro-tech/qaas-docs",
             "icon": (
                 '<svg height="26px" style="margin-top:-2px;display:inline" '
                 'viewBox="0 0 45 44" '
