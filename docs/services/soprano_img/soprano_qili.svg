@@ -28,8 +28,8 @@
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
      inkscape:zoom="0.5"
-     inkscape:cx="884"
-     inkscape:cy="301"
+     inkscape:cx="902"
+     inkscape:cy="97"
      inkscape:window-width="1547"
      inkscape:window-height="771"
      inkscape:window-x="1162"
@@ -311,25 +311,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="42.333328"
-       y="52.122913"
+       x="41.804161"
+       y="152.66478"
        id="text17687"><tspan
          sodipodi:role="line"
          id="tspan17685"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#1a1a1a;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="42.333328"
-         y="52.122913">Q0</tspan></text>
+         x="41.804161"
+         y="152.66478">Q0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="144.18745"
-       y="52.742027"
+       x="144.71661"
+       y="152.22531"
        id="text17687-5"><tspan
          sodipodi:role="line"
          id="tspan17685-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#1a1a1a;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="144.18745"
-         y="52.742027">Q1</tspan></text>
+         x="144.71661"
+         y="152.22531">Q1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
@@ -345,23 +345,23 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
        x="42.851944"
-       y="152.22548"
+       y="52.74213"
        id="text17687-6"><tspan
          sodipodi:role="line"
          id="tspan17685-73"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#1a1a1a;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
          x="42.851944"
-         y="152.22548">Q3</tspan></text>
+         y="52.74213">Q3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
        x="142.33537"
-       y="152.22549"
+       y="52.742165"
        id="text17687-65"><tspan
          sodipodi:role="line"
          id="tspan17685-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#1a1a1a;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
          x="142.33537"
-         y="152.22549">Q4</tspan></text>
+         y="52.742165">Q4</tspan></text>
   </g>
 </svg>
