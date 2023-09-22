@@ -22,6 +22,7 @@ author = "Qilimanjaro"
 extensions = [
     "sphinx_design",
     "sphinx.ext.autodoc",
+    "sphinx.ext.graphviz",
     "sphinx_mdinclude",  # allows the mdinclude directive to add Markdown files
     "sphinx.ext.napoleon",  # converts Google docstrings into rst
     "sphinx_automodapi.automodapi",
@@ -56,7 +57,7 @@ html_theme_options = {
     "logo_dark": "_static/q_dark.jpeg",
     "show_prev_next": True,
     "awesome_external_links": True,
-    "main_nav_links": {"Docs": "index", "Changelog": "changelog"},
+    "main_nav_links": {"Docs": "index"},
     "extra_header_link_icons": {
         "repository on GitHub": {
             "link": "https://github.com/qilimanjaro-tech/qaas-docs",
