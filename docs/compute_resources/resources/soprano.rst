@@ -1,6 +1,10 @@
 Soprano
 =======
 
+.. note::
+
+    We will soon update this page with the latest calibration data.
+
 **Provider:** QuantWare
 
 **Number of qubits:** 5
