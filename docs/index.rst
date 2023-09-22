@@ -38,7 +38,6 @@ We're excited to have you on board and look forward to assisting you on your qua
    If you don't already have a QaaS account, please request one by sending an email to: qilimanjaro@qilimanjaro.tech.
 
 .. toctree::
-   :caption: Compute Resources
    :maxdepth: 2
    :hidden:
 

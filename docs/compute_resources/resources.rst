@@ -1,7 +1,7 @@
 Compute Resources
 ==================
 
-.. rst-class:: lead center
+.. note::
 
     To access Qilimanjaro's quantum computers and simulators please contact qilimanjaro@qilimanjaro.tech
 
