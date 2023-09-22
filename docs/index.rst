@@ -1,10 +1,6 @@
 QaaS Documentation
 =====================
 
-.. rst-class:: lead grey-text ml-2
-
-    :Release: |release|
-
 .. rst-class:: lead center
 
     Qilimanjaro's Quantum as a Service
