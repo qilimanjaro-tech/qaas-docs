@@ -12,7 +12,7 @@ from sphinxawesome_theme.postprocess import Icons  # pylint: disable=import-erro
 
 sys.path.insert(0, os.path.abspath(".."))
 
-project = "QaaS Docs"
+project = "QaaS"
 copyright = "2023, Qilimanjaro"
 author = "Qilimanjaro"
 
