@@ -19,5 +19,5 @@ Connectivity
 
     Q3 -- Q2;
     Q4 -- Q2;
-    Q2 -- Q1;
     Q2 -- Q0;
+    Q2 -- Q1;
